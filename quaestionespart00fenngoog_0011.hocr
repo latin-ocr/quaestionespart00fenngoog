@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaestionespart00fenngoog_0011.png"; bbox 0 0 3292 5259; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 307 2234 1439 2347">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 307 2234 1439 2347">
+     <span class='ocr_line' id='line_1_1' title="bbox 307 2234 1439 2347; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 307 2244 510 2346; x_wconf 83' lang='lat' dir='ltr'><strong>MATRI</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 546 2234 842 2346; x_wconf 81' lang='grc' dir='ltr'><strong>ΟΡΤΙΜΑΕ</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 876 2242 1284 2347; x_wconf 79' lang='lat' dir='ltr'><strong>CARISSIMAE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1436 2264 1439 2268; x_wconf 78' lang='grc'><em>’</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 267 2908 1232 3015">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 267 2908 1232 3015">
+     <span class='ocr_line' id='line_1_2' title="bbox 267 2908 1232 3015; baseline 0.006 -6"><span class='ocrx_word' id='word_1_5' title='bbox 267 2940 269 2945; x_wconf 93' lang='grc'><strong><em>·</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 371 2908 682 3011; x_wconf 78' lang='lat' dir='ltr'>GARISSIMI</span> <span class='ocrx_word' id='word_1_7' title='bbox 708 2909 924 3013; x_wconf 79' lang='lat' dir='ltr'>PATRIS</span> <span class='ocrx_word' id='word_1_8' title='bbox 953 2909 1232 3015; x_wconf 78' lang='lat' dir='ltr'><strong>MANIBUS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1650 5259">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1650 5259">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1650 5259; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1650 5259; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
